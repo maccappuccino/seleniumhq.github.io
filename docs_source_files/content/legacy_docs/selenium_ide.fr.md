@@ -11,16 +11,9 @@ it by sending us pull requests!
 
 ## Introduction
 
-The Selenium-IDE (Integrated Development Environment) is the tool you use to
-develop your Selenium test cases. It’s an easy-to-use Firefox plug-in and is
-generally the most efficient way to develop test cases. It also contains a
-context menu that allows you to first select a UI element from the browser’s
-currently displayed page and then select from a list of Selenium commands with
-parameters pre-defined according to the context of the selected UI element.
-This is not only a time-saver, but also an excellent way of learning Selenium
-script syntax.
+L'IDE Selenium (Integrated Development Environment) est l'outil que vous allez utiliser pour développer vos jeux de tests sur Selenium. C'est un plug-in Firefox facile à utiliser et c'est généralement le moyen le plus efficace de développer des jeux de tests. Il contient également un menu contextuel qui vous permet de sélectionner un élément de l'interface utilisateur dans la page affichée par le navigateur, puis de choisir parmi une liste de commandes Selenium avec des paramètres prédéfinis en fonction du contexte de l'élément sélectionné. Cela permet non seulement de gagner du temps, mais c'est aussi un excellent moyen d'apprendre la syntaxe des scripts Selenium.
 
-This chapter is all about the Selenium IDE and how to use it effectively.
+Ce chapitre est consacré à l'EDI Selenium et à la manière de l'utiliser efficacement.
 
 ## Installing the IDE
 
